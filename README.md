@@ -1,6 +1,6 @@
-# Project Name
+# UCSAS 2024 USOPC Data Challenge
 
-A brief description of your project.
+This Project delves into the intricacies of data scraping, cleaning, exploratory data analysis (EDA), and modeling to identify the most effective strategies for maximizing the total medal count in artistic gymnastics.
 
 ## Folder Structure
 
