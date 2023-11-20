@@ -1656,6 +1656,7 @@ This Project delves into the intricacies of data scraping, cleaning, exploratory
     - `top_men_cleaning.ipynb`
     - `all_usa.csv`
     - `men_top.ipynb`
+  - [images](./Team%20Selection/images)
 
 ## Usage
 
