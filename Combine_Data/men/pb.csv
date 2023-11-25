@@ -448,60 +448,39 @@ Rank,Athlete,Nation,D,E,ND,Total,year,round
 190,nabil zouhair,MAR,3.0,6.266,0.0,9.266,2019,qual
 191,sabah al subaiei,KUW,1.7,7.2,-4.0,4.9,2019,qual
 192,ali al jafar,KUW,1.7,6.433,-4.0,4.133,2019,qual
-1,you hao,CHN,6.8,8.266,0.0,15.066,2019,final
-2,ahmet önder,TUR,6.2,8.433,0.0,14.633,2019,final
-3,ferhat arican,TUR,6.5,7.866,0.0,14.366,2019,final
-4,mitchell morgans,AUS,6.0,8.2,0.0,14.2,2019,final
-5,hibiki arayashiki,JPN,5.9,8.166,0.0,14.066,2019,final
-6,mikhail koudinov,NZL,5.9,7.033,0.0,12.933,2019,final
-7,akim mussayev,KAZ,5.6,6.666,0.0,12.266,2019,final
-8,tomomasa hasegawa,JPN,5.1,6.366,0.0,11.466,2019,final
-1,ahmet önder,TUR,6.2,8.266,0.0,14.466,2019,qual
-2,hibiki arayashiki,JPN,5.7,8.666,0.0,14.366,2019,qual
-3,you hao,CHN,6.5,7.8,0.0,14.3,2019,qual
-4,ferhat arican,TUR,6.5,7.733,0.0,14.233,2019,qual
-5,mitchell morgans,AUS,6.0,7.966,0.0,13.966,2019,qual
-6,mikhail koudinov,NZL,5.9,8.033,0.0,13.933,2019,qual
-7,akim mussayev,KAZ,5.9,7.891,0.0,13.791,2019,qual
-8,tomomasa hasegawa,JPN,5.6,7.966,0.0,13.566,2019,qual
-9,tyson bull,AUS,5.4,7.966,0.0,13.366,2019,qual
-10,milad karimi,KAZ,5.7,7.533,0.0,13.233,2019,qual
-11,valgard reinhardsson,ISL,4.9,8.2,0.0,13.1,2019,qual
-12,bram louwije,NED,5.5,6.9,0.0,12.4,2019,qual
-13,tang chia-hung,none,5.0,6.1,0.0,11.1,2019,qual
-1,sam mikulak,USA,6.4,8.59,0.0,29.4,2020,final
-1,sam mikulak,USA,6.5,7.55,0.0,29.4,2020,final
-2,grant breckenridge,USA,5.4,9.2,0.0,29.05,2020,final
-2,grant breckenridge,USA,5.7,8.75,0.0,29.05,2020,final
-3,yul moldauer,USA,6.1,8.0,0.0,28.2,2020,final
-3,yul moldauer,USA,5.9,8.2,0.0,28.2,2020,final
-4,akash modi,USA,6.1,7.95,0.0,27.95,2020,final
-4,akash modi,USA,6.1,7.8,0.0,27.95,2020,final
-5,robert neff,USA,5.8,8.1,0.0,27.5,2020,final
-5,robert neff,USA,5.8,7.8,0.0,27.5,2020,final
-6,colin van wicklen,USA,5.7,8.0,0.0,27.1,2020,final
-6,colin van wicklen,USA,5.7,7.7,0.0,27.1,2020,final
-7,colt walker,USA,5.6,8.1,0.0,27.05,2020,final
-7,colt walker,USA,5.5,7.85,0.0,27.05,2020,final
-7,gage dyer,USA,5.3,8.55,0.0,27.05,2020,final
-7,gage dyer,USA,5.3,7.9,0.0,27.05,2020,final
-9,ian gunther,USA,5.5,8.15,0.0,27.0,2020,final
-9,ian gunther,USA,5.5,7.85,0.0,27.0,2020,final
-10,kiwan watts,USA,5.6,8.25,0.0,26.9,2020,final
-10,kiwan watts,USA,5.2,7.85,0.0,26.9,2020,final
-10,isaiah drake,USA,5.3,8.4,0.0,26.9,2020,final
-10,isaiah drake,USA,5.2,8.0,0.0,26.9,2020,final
-12,paul juda,USA,5.4,8.2,0.0,26.8,2020,final
-12,paul juda,USA,5.4,7.8,0.0,26.8,2020,final
-13,cameron bock,USA,5.7,8.15,0.0,26.75,2020,final
-13,cameron bock,USA,5.7,7.2,0.0,26.75,2020,final
-14,sean melton,USA,6.0,8.1,0.0,26.55,2020,final
-14,sean melton,USA,6.0,6.45,0.0,26.55,2020,final
-15,timothy wang,USA,5.9,7.15,0.0,26.2,2020,final
-15,timothy wang,USA,5.9,7.25,0.0,26.2,2020,final
-16,adrian de los angeles,USA,5.6,7.05,0.0,25.5,2020,final
-16,adrian de los angeles,USA,5.7,7.15,0.0,25.5,2020,final
-17,nicolas kuebler,USA,5.0,7.95,0.0,24.5,2020,final
-17,nicolas kuebler,USA,4.5,7.05,0.0,24.5,2020,final
-18,michael moran,USA,4.7,7.75,0.0,24.4,2020,final
-18,michael moran,USA,4.7,7.25,0.0,24.4,2020,final
+1,sam mikulak,USA,6.4,8.59,0.0,14.99,2020,final
+1,sam mikulak,USA,6.5,7.55,0.0,14.05,2020,final
+2,grant breckenridge,USA,5.4,9.2,0.0,14.6,2020,final
+2,grant breckenridge,USA,5.7,8.75,0.0,14.45,2020,final
+3,yul moldauer,USA,6.1,8.0,0.0,14.1,2020,final
+3,yul moldauer,USA,5.9,8.2,0.0,14.1,2020,final
+4,akash modi,USA,6.1,7.95,0.0,14.05,2020,final
+4,akash modi,USA,6.1,7.8,0.0,13.899999999999999,2020,final
+5,robert neff,USA,5.8,8.1,0.0,13.899999999999999,2020,final
+5,robert neff,USA,5.8,7.8,0.0,13.6,2020,final
+6,colin van wicklen,USA,5.7,8.0,0.0,13.7,2020,final
+6,colin van wicklen,USA,5.7,7.7,0.0,13.4,2020,final
+7,colt walker,USA,5.6,8.1,0.0,13.7,2020,final
+7,colt walker,USA,5.5,7.85,0.0,13.35,2020,final
+7,gage dyer,USA,5.3,8.55,0.0,13.850000000000001,2020,final
+7,gage dyer,USA,5.3,7.9,0.0,13.2,2020,final
+9,ian gunther,USA,5.5,8.15,0.0,13.65,2020,final
+9,ian gunther,USA,5.5,7.85,0.0,13.35,2020,final
+10,kiwan watts,USA,5.6,8.25,0.0,13.85,2020,final
+10,kiwan watts,USA,5.2,7.85,0.0,13.05,2020,final
+10,isaiah drake,USA,5.3,8.4,0.0,13.7,2020,final
+10,isaiah drake,USA,5.2,8.0,0.0,13.2,2020,final
+12,paul juda,USA,5.4,8.2,0.0,13.6,2020,final
+12,paul juda,USA,5.4,7.8,0.0,13.2,2020,final
+13,cameron bock,USA,5.7,8.15,0.0,13.850000000000001,2020,final
+13,cameron bock,USA,5.7,7.2,0.0,12.9,2020,final
+14,sean melton,USA,6.0,8.1,0.0,14.1,2020,final
+14,sean melton,USA,6.0,6.45,0.0,12.45,2020,final
+15,timothy wang,USA,5.9,7.15,0.0,13.05,2020,final
+15,timothy wang,USA,5.9,7.25,0.0,13.15,2020,final
+16,adrian de los angeles,USA,5.6,7.05,0.0,12.649999999999999,2020,final
+16,adrian de los angeles,USA,5.7,7.15,0.0,12.850000000000001,2020,final
+17,nicolas kuebler,USA,5.0,7.95,0.0,12.95,2020,final
+17,nicolas kuebler,USA,4.5,7.05,0.0,11.55,2020,final
+18,michael moran,USA,4.7,7.75,0.0,12.45,2020,final
+18,michael moran,USA,4.7,7.25,0.0,11.95,2020,final
