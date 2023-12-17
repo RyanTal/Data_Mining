@@ -225,10 +225,6 @@
       - `world21champs.py` - `world21champs`
       - `iaaq.csv` - `iaaq`
 
-    - [.ipynb_checkpoints](scraping/men/.ipynb_checkpoints)
-
-      - `olympic winners-checkpoint.ipynb` - `olympic winners-checkpoint`
-
     - [winter_cup2020](scraping/men/winter_cup2020)
 
       - `.DS_Store` - `.DS_Store`
@@ -396,7 +392,6 @@
         - `Gymnastics_ 2020_Olympics_women's_artistic_vault.csv` - `Gymnastics_ 2020_Olympics_women's_artistic_vault`
 
       - [women2016olympics](scraping/women/olympics/women2016olympics)
-
         - `Gymnastics_ 2016_Olympics_women's_artistic_team_all_around.csv` - `Gymnastics_ 2016_Olympics_women's_artistic_team_all_around`
         - `women2016bb.py` - `women2016bb`
         - `women2016ub.py` - `women2016ub`
@@ -410,9 +405,6 @@
         - `women2016.py` - `women2016`
         - `women2016fx.py` - `women2016fx`
         - `women2016iaa.py` - `women2016iaa`
-
-        - [.ipynb_checkpoints](scraping/women/olympics/women2016olympics/.ipynb_checkpoints)
-          - `delete this -checkpoint.ipynb` - `delete this -checkpoint`
 
     - [jesolo15](scraping/women/jesolo15)
 
@@ -681,8 +673,6 @@
       - `scrape2016qual_team.py` - `scrape2016qual_team`
       - `scrape2016_team_qual.csv` - `scrape2016_team_qual`
 
-    - [.ipynb_checkpoints](scraping/women/.ipynb_checkpoints)
-
     - [iaa_w](scraping/women/iaa_w)
 
       - `wc19iaa.py` - `wc19iaa`
@@ -811,8 +801,6 @@
       - `best_floor2023.py` - `best_floor2023`
       - `best_floor2023.csv` - `best_floor2023`
 
-      - [.ipynb_checkpoints](scraping/women/gymternet/.ipynb_checkpoints)
-
     - [universiade2015](scraping/women/universiade2015)
 
       - `uni15fx_qual.py` - `uni15fx_qual`
@@ -851,17 +839,7 @@
     - `Mens team selection.ipynb` - `Mens team selection`
     - `ph.ipynb` - `ph`
 
-    - [.ipynb_checkpoints](EDA/men/.ipynb_checkpoints)
-      - `ph-checkpoint.ipynb` - `ph-checkpoint`
-      - `Mens team selection-checkpoint.ipynb` - `Mens team selection-checkpoint`
-
   - [women](EDA/women)
-
-    - [.ipynb_checkpoints](EDA/women/.ipynb_checkpoints)
-
-  - [.ipynb_checkpoints](EDA/.ipynb_checkpoints)
-    - `EDA To-Do-checkpoint.ipynb` - `EDA To-Do-checkpoint`
-    - `clean22_23mens-checkpoint.ipynb` - `clean22_23mens-checkpoint`
 
 - [Images](Images)
 
@@ -912,28 +890,7 @@
     - `combine_pb.ipynb` - `combine_pb`
     - `combine_hb.ipynb` - `combine_hb`
 
-    - [.ipynb_checkpoints](Combine_Data/men/.ipynb_checkpoints)
-      - `encode_pb-checkpoint.ipynb` - `encode_pb-checkpoint`
-      - `encoded_sr-checkpoint.ipynb` - `encoded_sr-checkpoint`
-      - `combine_vt-checkpoint.ipynb` - `combine_vt-checkpoint`
-      - `encode_ph-checkpoint.ipynb` - `encode_ph-checkpoint`
-      - `combine_fx-checkpoint.ipynb` - `combine_fx-checkpoint`
-      - `encode_hb-checkpoint.ipynb` - `encode_hb-checkpoint`
-      - `encoded_iaa_24-checkpoint.ipynb` - `encoded_iaa_24-checkpoint`
-      - `combine_iaa_24-checkpoint.ipynb` - `combine_iaa_24-checkpoint`
-      - `combine_ph-checkpoint.ipynb` - `combine_ph-checkpoint`
-      - `mens2020to2012olympics_team-checkpoint.ipynb` - `mens2020to2012olympics_team-checkpoint`
-      - `combine_sr-checkpoint.ipynb` - `combine_sr-checkpoint`
-      - `encoded_iaa-checkpoint.ipynb` - `encoded_iaa-checkpoint`
-      - `encoded_vt-checkpoint.ipynb` - `encoded_vt-checkpoint`
-      - `combine_hb-checkpoint.ipynb` - `combine_hb-checkpoint`
-      - `mens_data_size-checkpoint.ipynb` - `mens_data_size-checkpoint`
-      - `encode_fx-checkpoint.ipynb` - `encode_fx-checkpoint`
-      - `combine_iaa-checkpoint.ipynb` - `combine_iaa-checkpoint`
-      - `combine_pb-checkpoint.ipynb` - `combine_pb-checkpoint`
-
   - [women](Combine_Data/women)
-
     - `olympics_Women_bb.ipynb` - `olympics_Women_bb`
     - `combine_ub.ipynb` - `combine_ub`
     - `combine_iaa.ipynb` - `combine_iaa`
@@ -968,33 +925,6 @@
     - `bb_w.csv` - `bb_w`
     - `explore and encoder womens fx.ipynb` - `explore and encoder womens fx`
 
-    - [.ipynb_checkpoints](Combine_Data/women/.ipynb_checkpoints)
-      - `combine_iaa24-checkpoint.ipynb` - `combine_iaa24-checkpoint`
-      - `explore  and encode womens bb-checkpoint.ipynb` - `explore  and encode womens bb-checkpoint`
-      - `combine_vt-checkpoint.ipynb` - `combine_vt-checkpoint`
-      - `combine_bb-checkpoint.ipynb` - `combine_bb-checkpoint`
-      - `explore and encoder womens fx-checkpoint.ipynb` - `explore and encoder womens fx-checkpoint`
-      - `explore amd encode womens vt-checkpoint.ipynb` - `explore amd encode womens vt-checkpoint`
-      - `explore and encode womens ub-checkpoint.ipynb` - `explore and encode womens ub-checkpoint`
-      - `combine_fx-checkpoint.ipynb` - `combine_fx-checkpoint`
-      - `encoded_iaa24-checkpoint.ipynb` - `encoded_iaa24-checkpoint`
-      - `encoded_iaa-checkpoint.ipynb` - `encoded_iaa-checkpoint`
-      - `explore and encode womens bb-checkpoint.ipynb` - `explore and encode womens bb-checkpoint`
-      - `combine_iaa-checkpoint.ipynb` - `combine_iaa-checkpoint`
-      - `combine_ub-checkpoint.ipynb` - `combine_ub-checkpoint`
-      - `olympics_Women_bb-checkpoint.ipynb` - `olympics_Women_bb-checkpoint`
-      - `combine_usa_women-checkpoint.ipynb` - `combine_usa_women-checkpoint`
-
-  - [.ipynb_checkpoints](Combine_Data/.ipynb_checkpoints)
-    - `combine_vt-checkpoint.ipynb` - `combine_vt-checkpoint`
-    - `combine_bb-checkpoint.ipynb` - `combine_bb-checkpoint`
-    - `explore womens ub-checkpoint.ipynb` - `explore womens ub-checkpoint`
-    - `combine_fx-checkpoint.ipynb` - `combine_fx-checkpoint`
-    - `explore womens bb-checkpoint.ipynb` - `explore womens bb-checkpoint`
-    - `explore womens vt-checkpoint.ipynb` - `explore womens vt-checkpoint`
-    - `combine_ub-checkpoint.ipynb` - `combine_ub-checkpoint`
-    - `explore womens fx-checkpoint.ipynb` - `explore womens fx-checkpoint`
-
 - [modeling](modeling)
 
   - `.DS_Store` - `.DS_Store`
@@ -1014,29 +944,12 @@
     - `mens_Event_list.ipynb` - `mens_Event_list`
 
     - [Team](modeling/men/Team)
-
       - `Clean_Mens_apparatus_combined2016_2020.ipynb` - `Clean_Mens_apparatus_combined2016_2020`
       - `Modeling2016_2020.ipynb` - `Modeling2016_2020`
       - `Mens_apparatus_combined.csv` - `Mens_apparatus_combined`
       - `Mens_iaa_combined.csv` - `Mens_iaa_combined`
 
-      - [.ipynb_checkpoints](modeling/men/Team/.ipynb_checkpoints)
-        - `Clean_Mens_apparatus_combined2016_2020-checkpoint.ipynb` - `Clean_Mens_apparatus_combined2016_2020-checkpoint`
-        - `Modeling2016_2020-checkpoint.ipynb` - `Modeling2016_2020-checkpoint`
-
-    - [.ipynb_checkpoints](modeling/men/.ipynb_checkpoints)
-      - `ph-checkpoint.ipynb` - `ph-checkpoint`
-      - `sr-checkpoint.ipynb` - `sr-checkpoint`
-      - `iaa-checkpoint.ipynb` - `iaa-checkpoint`
-      - `hb-checkpoint.ipynb` - `hb-checkpoint`
-      - `mens_Event_list-checkpoint.ipynb` - `mens_Event_list-checkpoint`
-      - `pb-checkpoint.ipynb` - `pb-checkpoint`
-      - `vt-checkpoint.ipynb` - `vt-checkpoint`
-      - `Models_combined-checkpoint.ipynb` - `Models_combined-checkpoint`
-      - `fx-checkpoint.ipynb` - `fx-checkpoint`
-
   - [women](modeling/women)
-
     - `fx.ipynb` - `fx`
     - `iaa.ipynb` - `iaa`
     - `.DS_Store` - `.DS_Store`
@@ -1047,21 +960,6 @@
     - `Women_Event_list.ipynb` - `Women_Event_list`
     - `vt.ipynb` - `vt`
     - `Uneven Bars.ipynb` - `Uneven Bars`
-
-    - [.ipynb_checkpoints](modeling/women/.ipynb_checkpoints)
-      - `iaa-checkpoint.ipynb` - `iaa-checkpoint`
-      - `Uneven Bars-checkpoint.ipynb` - `Uneven Bars-checkpoint`
-      - `Women_Event_list-checkpoint.ipynb` - `Women_Event_list-checkpoint`
-      - `bb-checkpoint.ipynb` - `bb-checkpoint`
-      - `vt-checkpoint.ipynb` - `vt-checkpoint`
-      - `models_combined-checkpoint.ipynb` - `models_combined-checkpoint`
-      - `fx-checkpoint.ipynb` - `fx-checkpoint`
-
-  - [.ipynb_checkpoints](modeling/.ipynb_checkpoints)
-    - `ub-checkpoint.ipynb` - `ub-checkpoint`
-    - `bb-checkpoint.ipynb` - `bb-checkpoint`
-    - `vt-checkpoint.ipynb` - `vt-checkpoint`
-    - `fx-checkpoint.ipynb` - `fx-checkpoint`
 
 - [Results](Results)
 
@@ -1081,22 +979,6 @@
   - `usa_vs_comp_women.ipynb` - `usa_vs_comp_women`
   - `Women Team Models Review.ipynb` - `Women Team Models Review`
   - `USA Gymnasts Likely to Medal.ipynb` - `USA Gymnasts Likely to Medal`
-
-  - [.ipynb_checkpoints](Results/.ipynb_checkpoints)
-    - `Final Data for Dashboard-checkpoint.ipynb` - `Final Data for Dashboard-checkpoint`
-    - `Women Team Models Review-checkpoint.ipynb` - `Women Team Models Review-checkpoint`
-    - `USA Gymnasts Likely to Medal-checkpoint.ipynb` - `USA Gymnasts Likely to Medal-checkpoint`
-    - `womens models cleaning-checkpoint.ipynb` - `womens models cleaning-checkpoint`
-    - `Events Data Sizes-checkpoint.ipynb` - `Events Data Sizes-checkpoint`
-    - `men_Team_Models_Review-checkpoint.ipynb` - `men_Team_Models_Review-checkpoint`
-    - `usa_vs_comp_women-checkpoint.ipynb` - `usa_vs_comp_women-checkpoint`
-
-- [.ipynb_checkpoints](.ipynb_checkpoints)
-
-  - `UCSAS 2024 USOPC Data Challenge-checkpoint.ipynb` - `UCSAS 2024 USOPC Data Challenge-checkpoint`
-  - `Data Sources-checkpoint.ipynb` - `Data Sources-checkpoint`
-  - `To Do and  Questions-checkpoint.ipynb` - `To Do and  Questions-checkpoint`
-  - `Notes for Report-checkpoint.ipynb` - `Notes for Report-checkpoint`
 
 - [Previous_Winners](Previous_Winners)
 
@@ -1152,6 +1034,10 @@
     - [94](.git/objects/94)
 
       - `b5c538eee03ba0803e846e9b70d7d29ba03e3f` - `b5c538eee03ba0803e846e9b70d7d29ba03e3f`
+
+    - [0e](.git/objects/0e)
+
+      - `5c45615b1b70fc0dc7a1c203df3432d1b4c13d` - `5c45615b1b70fc0dc7a1c203df3432d1b4c13d`
 
     - [05](.git/objects/05)
 
@@ -1212,9 +1098,17 @@
 
       - `0e243bada6c06dae742fe8362bbea37b0c32d4` - `0e243bada6c06dae742fe8362bbea37b0c32d4`
 
+    - [72](.git/objects/72)
+
+      - `80d42353b2c3bbb641750ed2acc6efae8fccd2` - `80d42353b2c3bbb641750ed2acc6efae8fccd2`
+
     - [6b](.git/objects/6b)
 
       - `48e8b5ccd8eadd37f42fcc6a44a02a3228c4fc` - `48e8b5ccd8eadd37f42fcc6a44a02a3228c4fc`
+
+    - [07](.git/objects/07)
+
+      - `0f318287805bdfe3a8b26a4549d19ff3cb148f` - `0f318287805bdfe3a8b26a4549d19ff3cb148f`
 
     - [6e](.git/objects/6e)
 
@@ -1303,6 +1197,10 @@
     - [2b](.git/objects/2b)
 
       - `1dfe14728718c4efec3cee7a97ad1556a0776a` - `1dfe14728718c4efec3cee7a97ad1556a0776a`
+
+    - [78](.git/objects/78)
+
+      - `2ff8f8857bfd1660dbf04e3181048780b7ae93` - `2ff8f8857bfd1660dbf04e3181048780b7ae93`
 
     - [25](.git/objects/25)
       - `ea6ac9c563667e6383d7bf056f07c6125a77ea` - `ea6ac9c563667e6383d7bf056f07c6125a77ea`
@@ -1425,19 +1323,7 @@
       - `uni2019hb.csv` - `uni2019hb`
       - `world_championship2019vt.csv` - `world_championship2019vt`
 
-      - [.ipynb_checkpoints](Cleaning/qual_events/men/.ipynb_checkpoints)
-        - `clean_world_cup_2019_stuttgart-checkpoint.ipynb` - `clean_world_cup_2019_stuttgart-checkpoint`
-        - `iaa-checkpoint.ipynb` - `iaa-checkpoint`
-        - `clean_world_cup2019melbourne-checkpoint.ipynb` - `clean_world_cup2019melbourne-checkpoint`
-        - `clean_world_championship2018-checkpoint.ipynb` - `clean_world_championship2018-checkpoint`
-        - `clean_universiade2019-checkpoint.ipynb` - `clean_universiade2019-checkpoint`
-        - `world champ 2019 qual-checkpoint.ipynb` - `world champ 2019 qual-checkpoint`
-        - `vt-checkpoint.ipynb` - `vt-checkpoint`
-        - `clean_world_cup2020baku-checkpoint.ipynb` - `clean_world_cup2020baku-checkpoint`
-        - `clean_winter_cup2020-checkpoint.ipynb` - `clean_winter_cup2020-checkpoint`
-
     - [women](Cleaning/qual_events/women)
-
       - `clean_european_games2019fx.csv` - `clean_european_games2019fx`
       - `clean_wc19melbourne.ipynb` - `clean_wc19melbourne`
       - `euro2020ub.csv` - `euro2020ub`
@@ -1532,49 +1418,6 @@
       - `euro2020vt.csv` - `euro2020vt`
       - `clean_wc14doha_bb.csv` - `clean_wc14doha_bb`
 
-      - [.ipynb_checkpoints](Cleaning/qual_events/women/.ipynb_checkpoints)
-        - `Events-checkpoint.ipynb` - `Events-checkpoint`
-        - `clean_wc18jesolo-checkpoint.ipynb` - `clean_wc18jesolo-checkpoint`
-        - `uni19-checkpoint.ipynb` - `uni19-checkpoint`
-        - `iaa-checkpoint.ipynb` - `iaa-checkpoint`
-        - `clean_wc13cottbus-checkpoint.ipynb` - `clean_wc13cottbus-checkpoint`
-        - `clean_pan_american2014-checkpoint.ipynb` - `clean_pan_american2014-checkpoint`
-        - `clean_wc14doha-checkpoint.ipynb` - `clean_wc14doha-checkpoint`
-        - `worldcup2019doha-checkpoint.ipynb` - `worldcup2019doha-checkpoint`
-        - `clean_jesolo2015-checkpoint.ipynb` - `clean_jesolo2015-checkpoint`
-        - `clean_european_games2019-checkpoint.ipynb` - `clean_european_games2019-checkpoint`
-        - `clean_european_championship2018-checkpoint.ipynb` - `clean_european_championship2018-checkpoint`
-        - `clean_universiade2015-checkpoint.ipynb` - `clean_universiade2015-checkpoint`
-        - `iaa23_22-checkpoint.ipynb` - `iaa23_22-checkpoint`
-        - `clean_european_championship2021-checkpoint.ipynb` - `clean_european_championship2021-checkpoint`
-        - `worldcup15cott_ERROR_BB-checkpoint.ipynb` - `worldcup15cott_ERROR_BB-checkpoint`
-        - `clean_european_championships2015-checkpoint.ipynb` - `clean_european_championships2015-checkpoint`
-        - `clean_brit_champ2015-checkpoint.ipynb` - `clean_brit_champ2015-checkpoint`
-        - `clean_pacific_rim2016-checkpoint.ipynb` - `clean_pacific_rim2016-checkpoint`
-        - `clean_wc19melbourne-checkpoint.ipynb` - `clean_wc19melbourne-checkpoint`
-        - `euro2020-checkpoint.ipynb` - `euro2020-checkpoint`
-
-    - [.ipynb_checkpoints](Cleaning/qual_events/.ipynb_checkpoints)
-      - `Events-checkpoint.ipynb` - `Events-checkpoint`
-      - `clean_wc18jesolo-checkpoint.ipynb` - `clean_wc18jesolo-checkpoint`
-      - `uni19-checkpoint.ipynb` - `uni19-checkpoint`
-      - `clean_wc13cottbus-checkpoint.ipynb` - `clean_wc13cottbus-checkpoint`
-      - `To Clean-checkpoint.ipynb` - `To Clean-checkpoint`
-      - `clean_pan_american2014-checkpoint.ipynb` - `clean_pan_american2014-checkpoint`
-      - `clean_wc14doha-checkpoint.ipynb` - `clean_wc14doha-checkpoint`
-      - `worldcup2019doha-checkpoint.ipynb` - `worldcup2019doha-checkpoint`
-      - `clean_jesolo2015-checkpoint.ipynb` - `clean_jesolo2015-checkpoint`
-      - `clean_european_games2019-checkpoint.ipynb` - `clean_european_games2019-checkpoint`
-      - `clean_european_championship2018-checkpoint.ipynb` - `clean_european_championship2018-checkpoint`
-      - `clean_universiade2015-checkpoint.ipynb` - `clean_universiade2015-checkpoint`
-      - `clean_european_championship2021-checkpoint.ipynb` - `clean_european_championship2021-checkpoint`
-      - `worldcup15cott_ERROR_BB-checkpoint.ipynb` - `worldcup15cott_ERROR_BB-checkpoint`
-      - `clean_european_championships2015-checkpoint.ipynb` - `clean_european_championships2015-checkpoint`
-      - `clean_brit_champ2015-checkpoint.ipynb` - `clean_brit_champ2015-checkpoint`
-      - `clean_pacific_rim2016-checkpoint.ipynb` - `clean_pacific_rim2016-checkpoint`
-      - `clean_wc19melbourne-checkpoint.ipynb` - `clean_wc19melbourne-checkpoint`
-      - `euro2020-checkpoint.ipynb` - `euro2020-checkpoint`
-
   - [olympics](Cleaning/olympics)
 
     - `.DS_Store` - `.DS_Store`
@@ -1599,29 +1442,7 @@
       - `cleaned2012to2020mens.csv` - `cleaned2012to2020mens`
       - `clean2016Olympics_Men's_artistic_team_all-around_Individuals.csv` - `clean2016Olympics_Men's_artistic_team_all-around_Individuals`
 
-      - [.ipynb_checkpoints](Cleaning/olympics/mens/.ipynb_checkpoints)
-        - `clean2016Olympics_Men's_artistic_team_all-around-checkpoint.ipynb` - `clean2016Olympics_Men's_artistic_team_all-around-checkpoint`
-        - `mens_vt-checkpoint.ipynb` - `mens_vt-checkpoint`
-        - `mens_fx-checkpoint.ipynb` - `mens_fx-checkpoint`
-        - `cleaned2012team-checkpoint.ipynb` - `cleaned2012team-checkpoint`
-        - `mens_ph-checkpoint.ipynb` - `mens_ph-checkpoint`
-        - `mens_sr-checkpoint.ipynb` - `mens_sr-checkpoint`
-        - `clean2020Olympics_Men's_artistic_team_all-around-checkpoint.ipynb` - `clean2020Olympics_Men's_artistic_team_all-around-checkpoint`
-        - `mens_hb-checkpoint.ipynb` - `mens_hb-checkpoint`
-        - `mens_pb-checkpoint.ipynb` - `mens_pb-checkpoint`
-
-    - [.ipynb_checkpoints](Cleaning/olympics/.ipynb_checkpoints)
-
-      - `clean2016Olympics_Men's_artistic_team_all-around-checkpoint.ipynb` - `clean2016Olympics_Men's_artistic_team_all-around-checkpoint`
-      - `clean2012women-checkpoint.ipynb` - `clean2012women-checkpoint`
-      - `cleaned2012team-checkpoint.ipynb` - `cleaned2012team-checkpoint`
-      - `mens2020to2012olympics_team-checkpoint.ipynb` - `mens2020to2012olympics_team-checkpoint`
-      - `clean2020women-checkpoint.ipynb` - `clean2020women-checkpoint`
-      - `clean2020Olympics_Men's_artistic_team_all-around-checkpoint.ipynb` - `clean2020Olympics_Men's_artistic_team_all-around-checkpoint`
-      - `clean2016women-checkpoint.ipynb` - `clean2016women-checkpoint`
-
     - [womens](Cleaning/olympics/womens)
-
       - `clean_women12to20fx.ipynb` - `clean_women12to20fx`
       - `clean2020Olympics_women's_artistic_team_all-around_individual.csv` - `clean2020Olympics_women's_artistic_team_all-around_individual`
       - `.DS_Store` - `.DS_Store`
@@ -1637,44 +1458,23 @@
       - `clean2012women.ipynb` - `clean2012women`
       - `clean2020women.ipynb` - `clean2020women`
 
-      - [.ipynb_checkpoints](Cleaning/olympics/womens/.ipynb_checkpoints)
-        - `clean_women12to20ub-checkpoint.ipynb` - `clean_women12to20ub-checkpoint`
-        - `clean2012women-checkpoint.ipynb` - `clean2012women-checkpoint`
-        - `clean2020women-checkpoint.ipynb` - `clean2020women-checkpoint`
-        - `clean_women12to20bb-checkpoint.ipynb` - `clean_women12to20bb-checkpoint`
-        - `clean_women12to20vt-checkpoint.ipynb` - `clean_women12to20vt-checkpoint`
-        - `clean2016women-checkpoint.ipynb` - `clean2016women-checkpoint`
-        - `clean_women12to20fx-checkpoint.ipynb` - `clean_women12to20fx-checkpoint`
-
   - [Asian2023Championships](Cleaning/Asian2023Championships)
 
     - `asian2023mens.ipynb` - `asian2023mens`
-
-    - [.ipynb_checkpoints](Cleaning/Asian2023Championships/.ipynb_checkpoints)
-      - `asian2023mens-checkpoint.ipynb` - `asian2023mens-checkpoint`
 
   - [qual2012](Cleaning/qual2012)
 
     - `clean2012qual_team.ipynb` - `clean2012qual_team`
     - `clean2012_team_qual.csv` - `clean2012_team_qual`
 
-    - [.ipynb_checkpoints](Cleaning/qual2012/.ipynb_checkpoints)
-      - `clean2012qual_team-checkpoint.ipynb` - `clean2012qual_team-checkpoint`
-
   - [top scores](Cleaning/top scores)
 
     - `top scores women.ipynb` - `top scores women`
-
-    - [.ipynb_checkpoints](Cleaning/top scores/.ipynb_checkpoints)
-      - `top scores women-checkpoint.ipynb` - `top scores women-checkpoint`
 
   - [qual2008](Cleaning/qual2008)
 
     - `clean2008qual_team.ipynb` - `clean2008qual_team`
     - `clean2008qual_team.csv` - `clean2008qual_team`
-
-    - [.ipynb_checkpoints](Cleaning/qual2008/.ipynb_checkpoints)
-      - `clean2008qual_team-checkpoint.ipynb` - `clean2008qual_team-checkpoint`
 
   - [worldcup](Cleaning/worldcup)
 
@@ -1686,12 +1486,6 @@
     - `worldcup2020Baku_bb.ipynb` - `worldcup2020Baku_bb`
     - `clean_worldcup2020Baku_vt.csv` - `clean_worldcup2020Baku_vt`
     - `clean_worldcup2020Baku_bb.csv` - `clean_worldcup2020Baku_bb`
-
-    - [.ipynb_checkpoints](Cleaning/worldcup/.ipynb_checkpoints)
-      - `worldcup2020Baku_fx-checkpoint.ipynb` - `worldcup2020Baku_fx-checkpoint`
-      - `worldcup2020Baku_vt-checkpoint.ipynb` - `worldcup2020Baku_vt-checkpoint`
-      - `worldcup2020Baku_bb-checkpoint.ipynb` - `worldcup2020Baku_bb-checkpoint`
-      - `worldcup2020Baku_ub-checkpoint.ipynb` - `worldcup2020Baku_ub-checkpoint`
 
   - [\*final2020](Cleaning/*final2020)
 
@@ -1708,22 +1502,11 @@
     - `clean2020final_indv_bb.ipynb` - `clean2020final_indv_bb`
     - `clean2020final_team_allrnd.ipynb` - `clean2020final_team_allrnd`
 
-    - [.ipynb_checkpoints](Cleaning/*final2020/.ipynb_checkpoints)
-      - `clean2020final_indv_uneven-checkpoint.ipynb` - `clean2020final_indv_uneven-checkpoint`
-      - `indv_allrnd2020_final-checkpoint.ipynb` - `indv_allrnd2020_final-checkpoint`
-      - `clean2020final_indv_bb-checkpoint.ipynb` - `clean2020final_indv_bb-checkpoint`
-      - `clean2020final_team_allrnd-checkpoint.ipynb` - `clean2020final_team_allrnd-checkpoint`
-      - `*clean2020final_indiv_floor*-checkpoint.ipynb` - `*clean2020final_indiv_floor*-checkpoint`
-      - `clean2020final_indiv_vaul-checkpoint.ipynb` - `clean2020final_indiv_vaul-checkpoint`
-
   - [qual08to20](Cleaning/qual08to20)
 
     - `combine_quals.ipynb` - `combine_quals`
     - `clean08to12_team_qual.csv` - `clean08to12_team_qual`
     - `clean16to20_team_qual.csv` - `clean16to20_team_qual`
-
-    - [.ipynb_checkpoints](Cleaning/qual08to20/.ipynb_checkpoints)
-      - `combine_quals-checkpoint.ipynb` - `combine_quals-checkpoint`
 
   - [Individuals_Results](Cleaning/Individuals_Results)
 
@@ -1764,24 +1547,6 @@
     - `ZoeMiller.ipynb` - `ZoeMiller`
     - `suman.csv` - `suman`
 
-    - [.ipynb_checkpoints](Cleaning/Individuals_Results/.ipynb_checkpoints)
-      - `JadeCarey-checkpoint.ipynb` - `JadeCarey-checkpoint`
-      - `roberson-checkpoint.ipynb` - `roberson-checkpoint`
-      - `sullivan-checkpoint.ipynb` - `sullivan-checkpoint`
-      - `matthews-checkpoint.ipynb` - `matthews-checkpoint`
-      - `ZoeMiller-checkpoint.ipynb` - `ZoeMiller-checkpoint`
-      - `lincoln-checkpoint.ipynb` - `lincoln-checkpoint`
-      - `individuals_combined-checkpoint.ipynb` - `individuals_combined-checkpoint`
-      - `Chiles-checkpoint.ipynb` - `Chiles-checkpoint`
-      - `ShileseJones-checkpoint.ipynb` - `ShileseJones-checkpoint`
-      - `lee-checkpoint.ipynb` - `lee-checkpoint`
-      - `biles-checkpoint.ipynb` - `biles-checkpoint`
-      - `wong-checkpoint.ipynb` - `wong-checkpoint`
-      - `blakely-checkpoint.ipynb` - `blakely-checkpoint`
-      - `TianaSumanasekera-checkpoint.ipynb` - `TianaSumanasekera-checkpoint`
-      - `jong-checkpoint.ipynb` - `jong-checkpoint`
-      - `dicello-checkpoint.ipynb` - `dicello-checkpoint`
-
   - [qual2020](Cleaning/qual2020)
 
     - `clean_indv_qual_2020.ipynb` - `clean_indv_qual_2020`
@@ -1790,25 +1555,10 @@
     - `clean2020qual_team.csv` - `clean2020qual_team`
     - `w_ind_qual2020.csv` - `w_ind_qual2020`
 
-    - [.ipynb_checkpoints](Cleaning/qual2020/.ipynb_checkpoints)
-      - `clean_indv_qual_2020-checkpoint.ipynb` - `clean_indv_qual_2020-checkpoint`
-      - `clean2020qual_team-checkpoint.ipynb` - `clean2020qual_team-checkpoint`
-
   - [qual2016](Cleaning/qual2016)
 
     - `clean2016_team_qual.csv` - `clean2016_team_qual`
     - `clean2016_team_qual.ipynb` - `clean2016_team_qual`
-
-    - [.ipynb_checkpoints](Cleaning/qual2016/.ipynb_checkpoints)
-      - `clean2016_team_qual-checkpoint.ipynb` - `clean2016_team_qual-checkpoint`
-
-  - [.ipynb_checkpoints](Cleaning/.ipynb_checkpoints)
-
-    - `asian2023mens-checkpoint.ipynb` - `asian2023mens-checkpoint`
-    - `clean18worldChamp-checkpoint.ipynb` - `clean18worldChamp-checkpoint`
-    - `clean22_23mens-checkpoint.ipynb` - `clean22_23mens-checkpoint`
-    - `cleaning17_21-checkpoint.ipynb` - `cleaning17_21-checkpoint`
-    - `combine_everything-checkpoint.ipynb` - `combine_everything-checkpoint`
 
   - [USOPC](Cleaning/USOPC)
 
@@ -1843,17 +1593,6 @@
     - `october.ipynb` - `october`
     - `usopc_women_bb_october.csv` - `usopc_women_bb_october`
 
-    - [.ipynb_checkpoints](Cleaning/USOPC/.ipynb_checkpoints)
-      - `cleaning-allyears+eda-checkpoint.ipynb` - `cleaning-allyears+eda-checkpoint`
-      - `october-checkpoint.ipynb` - `october-checkpoint`
-      - `cleaned22to23men_women-checkpoint.ipynb` - `cleaned22to23men_women-checkpoint`
-      - `clean22_23mens-checkpoint.ipynb` - `clean22_23mens-checkpoint`
-      - `cleaning17_21-checkpoint.ipynb` - `cleaning17_21-checkpoint`
-      - `mens apparatus -checkpoint.ipynb` - `mens apparatus -checkpoint`
-      - `clean22_23sep-checkpoint.ipynb` - `clean22_23sep-checkpoint`
-      - `usa_women_apparatus-checkpoint.ipynb` - `usa_women_apparatus-checkpoint`
-      - `usa_men_apparatus-checkpoint.ipynb` - `usa_men_apparatus-checkpoint`
-
   - [World_Championships](Cleaning/World_Championships)
 
     - `ub_world_championship_w.csv` - `ub_world_championship_w`
@@ -1869,7 +1608,6 @@
     - `world_championships_combined.ipynb` - `world_championships_combined`
 
     - [world_champ_wiki](Cleaning/World_Championships/world_champ_wiki)
-
       - `wc14bb.csv` - `wc14bb`
       - `wc11fx.csv` - `wc11fx`
       - `wc19.ipynb` - `wc19`
@@ -1921,25 +1659,6 @@
       - `wc17.ipynb` - `wc17`
       - `wc18bb.csv` - `wc18bb`
 
-      - [.ipynb_checkpoints](Cleaning/World_Championships/world_champ_wiki/.ipynb_checkpoints)
-        - `wc_w_bb-checkpoint.ipynb` - `wc_w_bb-checkpoint`
-        - `wc_w_vt-checkpoint.ipynb` - `wc_w_vt-checkpoint`
-        - `wc15-checkpoint.ipynb` - `wc15-checkpoint`
-        - `wc_w_iaa-checkpoint.ipynb` - `wc_w_iaa-checkpoint`
-        - `wc18_ERROR_VT-checkpoint.ipynb` - `wc18_ERROR_VT-checkpoint`
-        - `wc17-checkpoint.ipynb` - `wc17-checkpoint`
-        - `wc13w-checkpoint.ipynb` - `wc13w-checkpoint`
-        - `wc19-checkpoint.ipynb` - `wc19-checkpoint`
-        - `wc_w_ub-checkpoint.ipynb` - `wc_w_ub-checkpoint`
-        - `wc11w-checkpoint.ipynb` - `wc11w-checkpoint`
-        - `wc14w-checkpoint.ipynb` - `wc14w-checkpoint`
-
-    - [.ipynb_checkpoints](Cleaning/World_Championships/.ipynb_checkpoints)
-      - `clean18worldChamp-checkpoint.ipynb` - `clean18worldChamp-checkpoint`
-      - `clean2023Camp-checkpoint.ipynb` - `clean2023Camp-checkpoint`
-      - `clean19worldChamp-checkpoint.ipynb` - `clean19worldChamp-checkpoint`
-      - `world_championships_combined-checkpoint.ipynb` - `world_championships_combined-checkpoint`
-
 - [Data](Data)
 
   - `.DS_Store` - `.DS_Store`
@@ -1977,13 +1696,7 @@
     - `clean_encode_men.ipynb` - `clean_encode_men`
     - `encoded_w_olympics_fxnames.csv` - `encoded_w_olympics_fxnames`
 
-    - [.ipynb_checkpoints](Data/cleandata22-23/.ipynb_checkpoints)
-      - `clean_encode-checkpoint.ipynb` - `clean_encode-checkpoint`
-      - `clean_encode_men-checkpoint.ipynb` - `clean_encode_men-checkpoint`
-      - `women_and_mens22-23CLEAN-checkpoint.ipynb` - `women_and_mens22-23CLEAN-checkpoint`
-
   - [asia2023championship_men](Data/asia2023championship_men)
-
     - `pb23mens.csv` - `pb23mens`
     - `floor23mens.csv` - `floor23mens`
     - `vault23mens.csv` - `vault23mens`
@@ -1992,9 +1705,6 @@
     - `hb23mens.csv` - `hb23mens`
     - `mens2023iaa.csv` - `mens2023iaa`
     - `rings23mens.csv` - `rings23mens`
-
-  - [.ipynb_checkpoints](Data/.ipynb_checkpoints)
-    - `combined_2017_2023-checkpoint.ipynb` - `combined_2017_2023-checkpoint`
 
 - [Team Selection](Team Selection)
 
@@ -2023,16 +1733,6 @@
     - `top_men.csv` - `top_men`
     - `usa_men.csv` - `usa_men`
 
-    - [.ipynb_checkpoints](Team Selection/men/.ipynb_checkpoints)
-      - `top_men_cleaning-checkpoint.ipynb` - `top_men_cleaning-checkpoint`
-      - `Metaheuristics-checkpoint.ipynb` - `Metaheuristics-checkpoint`
-
-  - [.ipynb_checkpoints](Team Selection/.ipynb_checkpoints)
-
-    - `final_rnd_team-checkpoint.ipynb` - `final_rnd_team-checkpoint`
-    - `Metaheuristics-checkpoint.ipynb` - `Metaheuristics-checkpoint`
-    - `Team from Individuals-checkpoint.ipynb` - `Team from Individuals-checkpoint`
-
   - [Competition](Team Selection/Competition)
 
     - `great_britain.csv` - `great_britain`
@@ -2050,7 +1750,6 @@
     - `China.ipynb` - `China`
 
     - [Men](Team Selection/Competition/Men)
-
       - `Japan.ipynb` - `Japan`
       - `germany.ipynb` - `germany`
       - `UK.ipynb` - `UK`
@@ -2064,21 +1763,3 @@
       - `china.csv` - `china`
       - `china.ipynb` - `china`
       - `ch.csv` - `ch`
-
-      - [.ipynb_checkpoints](Team Selection/Competition/Men/.ipynb_checkpoints)
-        - `germany-checkpoint.ipynb` - `germany-checkpoint`
-        - `swiss-checkpoint.ipynb` - `swiss-checkpoint`
-        - `china-checkpoint.ipynb` - `china-checkpoint`
-        - `usa-checkpoint.ipynb` - `usa-checkpoint`
-        - `Qualified teams-checkpoint.ipynb` - `Qualified teams-checkpoint`
-        - `Japan-checkpoint.ipynb` - `Japan-checkpoint`
-        - `UK-checkpoint.ipynb` - `UK-checkpoint`
-
-    - [.ipynb_checkpoints](Team Selection/Competition/.ipynb_checkpoints)
-      - `top_countries-checkpoint.ipynb` - `top_countries-checkpoint`
-      - `Canada-checkpoint.ipynb` - `Canada-checkpoint`
-      - `China-checkpoint.ipynb` - `China-checkpoint`
-      - `France-checkpoint.ipynb` - `France-checkpoint`
-      - `Brazil-checkpoint.ipynb` - `Brazil-checkpoint`
-      - `Countries-checkpoint.ipynb` - `Countries-checkpoint`
-      - `Great_Britian-checkpoint.ipynb` - `Great_Britian-checkpoint`
