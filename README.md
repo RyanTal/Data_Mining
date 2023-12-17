@@ -1,7 +1,6 @@
 - [Data_Mining](.)
 
   - `UCSAS.docx` - `UCSAS`
-  - `.DS_Store` - `.DS_Store`
   - `Presentation1.pptx` - `Presentation1`
   - `README.md` - `README`
   - `.gitignore` - `.gitignore`
@@ -16,16 +15,12 @@
 
 - [scraping](scraping)
 
-  - `.DS_Store` - `.DS_Store`
-
   - [men](scraping/men)
 
-    - `.DS_Store` - `.DS_Store`
     - `olympic winners.ipynb` - `olympic winners`
 
     - [eu19games_vt](scraping/men/eu19games_vt)
 
-      - `.DS_Store` - `.DS_Store`
       - `eu19games_vt.py` - `eu19games_vt`
       - `european_games2019vt.csv` - `european_games2019vt`
 
@@ -35,8 +30,6 @@
       - `wc19stutt.py` - `wc19stutt`
 
     - [olympics](scraping/men/olympics)
-
-      - `.DS_Store` - `.DS_Store`
 
       - [mens202olympics_fianl](scraping/men/olympics/mens202olympics_fianl)
 
@@ -180,7 +173,6 @@
     - [world_championship2018](scraping/men/world_championship2018)
 
       - `world18champ_vt.py` - `world18champ_vt`
-      - `.DS_Store` - `.DS_Store`
       - `world_championship2018sr.csv` - `world_championship2018sr`
       - `world_championship2018ph.csv` - `world_championship2018ph`
       - `world18champph.py` - `world18champph`
@@ -227,7 +219,6 @@
 
     - [winter_cup2020](scraping/men/winter_cup2020)
 
-      - `.DS_Store` - `.DS_Store`
       - `vt.csv` - `vt`
       - `hb.csv` - `hb`
       - `fx.csv` - `fx`
@@ -308,7 +299,6 @@
     - [world_cup2020baku](scraping/men/world_cup2020baku)
 
       - `world2020cup_baku_vt.py` - `world2020cup_baku_vt`
-      - `.DS_Store` - `.DS_Store`
       - `wc20baku_fx_qual.py` - `wc20baku_fx_qual`
       - `wc20baku_pb_qual.py` - `wc20baku_pb_qual`
       - `world_cup_baku2020fx_qual.csv` - `world_cup_baku2020fx_qual`
@@ -326,8 +316,6 @@
       - `wc19birm.py` - `wc19birm`
 
   - [women](scraping/women)
-
-    - `.DS_Store` - `.DS_Store`
 
     - [wc17w](scraping/women/wc17w)
 
@@ -373,8 +361,6 @@
       - `wc13cott_bb_qual.py` - `wc13cott_bb_qual`
 
     - [olympics](scraping/women/olympics)
-
-      - `.DS_Store` - `.DS_Store`
 
       - [womens2020olympics](scraping/women/olympics/womens2020olympics)
 
@@ -830,7 +816,6 @@
 
 - [EDA](EDA)
 
-  - `.DS_Store` - `.DS_Store`
   - `EDA To-Do.ipynb` - `EDA To-Do`
   - `clean22_23mens.ipynb` - `clean22_23mens`
 
@@ -847,8 +832,6 @@
 
 - [Combine_Data](Combine_Data)
 
-  - `.DS_Store` - `.DS_Store`
-
   - [men](Combine_Data/men)
 
     - `encoded_sr.ipynb` - `encoded_sr`
@@ -861,7 +844,6 @@
     - `fx_encoded.csv` - `fx_encoded`
     - `iaa2020.csv` - `iaa2020`
     - `sr_encoded.csv` - `sr_encoded`
-    - `.DS_Store` - `.DS_Store`
     - `combine_iaa_24.ipynb` - `combine_iaa_24`
     - `vt.csv` - `vt`
     - `encoded_m_olympics_iaanames.csv` - `encoded_m_olympics_iaanames`
@@ -899,7 +881,6 @@
     - `iaa2024.csv` - `iaa2024`
     - `fx_encoded.csv` - `fx_encoded`
     - `iaa2020.csv` - `iaa2020`
-    - `.DS_Store` - `.DS_Store`
     - `encoded_w_olympics_iaa.csv` - `encoded_w_olympics_iaa`
     - `combine_iaa24.ipynb` - `combine_iaa24`
     - `ub_w.csv` - `ub_w`
@@ -927,14 +908,11 @@
 
 - [modeling](modeling)
 
-  - `.DS_Store` - `.DS_Store`
-
   - [men](modeling/men)
 
     - `fx.ipynb` - `fx`
     - `mens_individuals.csv` - `mens_individuals`
     - `iaa.ipynb` - `iaa`
-    - `.DS_Store` - `.DS_Store`
     - `Models_combined.ipynb` - `Models_combined`
     - `sr.ipynb` - `sr`
     - `hb.ipynb` - `hb`
@@ -952,7 +930,6 @@
   - [women](modeling/women)
     - `fx.ipynb` - `fx`
     - `iaa.ipynb` - `iaa`
-    - `.DS_Store` - `.DS_Store`
     - `tpot_pipeline.py` - `tpot_pipeline`
     - `models_combined.ipynb` - `models_combined`
     - `womens_individuals.csv` - `womens_individuals`
@@ -985,284 +962,12 @@
   - `UCSAS_Data_Challenge_Webinar_09-14-23.pdf` - `UCSAS_Data_Challenge_Webinar_09-14-23`
   - `UCSAS final paper.pdf` - `UCSAS final paper`
 
-- [.git](.git)
-
-  - `.DS_Store` - `.DS_Store`
-  - `config` - `config`
-  - `HEAD` - `HEAD`
-  - `description` - `description`
-  - `index` - `index`
-  - `packed-refs` - `packed-refs`
-  - `COMMIT_EDITMSG` - `COMMIT_EDITMSG`
-  - `FETCH_HEAD` - `FETCH_HEAD`
-
-  - [objects](.git/objects)
-
-    - [0d](.git/objects/0d)
-
-      - `f49962d32234923316bcce74be3d24730740f2` - `f49962d32234923316bcce74be3d24730740f2`
-
-    - [59](.git/objects/59)
-
-      - `b8851648e9a562444f472d445f94d163a56fc4` - `b8851648e9a562444f472d445f94d163a56fc4`
-
-    - [50](.git/objects/50)
-
-      - `05743cd5dd756445f1201ce8edde428dd719be` - `05743cd5dd756445f1201ce8edde428dd719be`
-      - `18fe8a2d8d35dcd9ccf3b67347a882a7be6bde` - `18fe8a2d8d35dcd9ccf3b67347a882a7be6bde`
-
-    - [3b](.git/objects/3b)
-
-      - `420d5e0c9dd7ca649242ecc21bfb07d2a06ecd` - `420d5e0c9dd7ca649242ecc21bfb07d2a06ecd`
-
-    - [03](.git/objects/03)
-
-      - `29a4b9261f5f3a9c97b79e4f89f9bd7be0b37f` - `29a4b9261f5f3a9c97b79e4f89f9bd7be0b37f`
-
-    - [9b](.git/objects/9b)
-
-      - `5550a0ca2ae4096349e22842495f854d747b57` - `5550a0ca2ae4096349e22842495f854d747b57`
-
-    - [56](.git/objects/56)
-
-      - `d96ca0464418e80801b56bd8306a66c16f3f31` - `d96ca0464418e80801b56bd8306a66c16f3f31`
-
-    - [67](.git/objects/67)
-
-      - `367197d62ec49dbf248d856139cd51ef8e99bf` - `367197d62ec49dbf248d856139cd51ef8e99bf`
-
-    - [94](.git/objects/94)
-
-      - `b5c538eee03ba0803e846e9b70d7d29ba03e3f` - `b5c538eee03ba0803e846e9b70d7d29ba03e3f`
-
-    - [0e](.git/objects/0e)
-
-      - `5c45615b1b70fc0dc7a1c203df3432d1b4c13d` - `5c45615b1b70fc0dc7a1c203df3432d1b4c13d`
-
-    - [05](.git/objects/05)
-
-      - `3713855742fcf7b4deec098dcb239b8b40e7e0` - `3713855742fcf7b4deec098dcb239b8b40e7e0`
-
-    - [b5](.git/objects/b5)
-
-      - `3386edda64d09a20460a653f0885b1dc953b98` - `3386edda64d09a20460a653f0885b1dc953b98`
-
-    - [da](.git/objects/da)
-
-      - `1a1748f4ccbbfcbea50cfecd0dd50c051f7403` - `1a1748f4ccbbfcbea50cfecd0dd50c051f7403`
-
-    - [bd](.git/objects/bd)
-
-      - `572303bbd641a64b0842bf579f30f15b12952c` - `572303bbd641a64b0842bf579f30f15b12952c`
-
-    - [c0](.git/objects/c0)
-
-      - `68a7efb9c47fb235e140fcfc1a96428ba862c2` - `68a7efb9c47fb235e140fcfc1a96428ba862c2`
-      - `aa6dfe399f23be8c4e90216ae3d81eeaac323c` - `aa6dfe399f23be8c4e90216ae3d81eeaac323c`
-
-    - [ed](.git/objects/ed)
-
-      - `46645269afe6c2789ce4c1cc2bcebf68e52a5c` - `46645269afe6c2789ce4c1cc2bcebf68e52a5c`
-
-    - [18](.git/objects/18)
-
-      - `0ab7cfd8fd00236673b709f8e30859fc13165a` - `0ab7cfd8fd00236673b709f8e30859fc13165a`
-
-    - [27](.git/objects/27)
-
-      - `c999935e9abdf6bd642de900b23def8ea99963` - `c999935e9abdf6bd642de900b23def8ea99963`
-
-    - [pack](.git/objects/pack)
-
-      - `pack-2106cd330a63534e760a77065b374b130f384c3c.idx` - `pack-2106cd330a63534e760a77065b374b130f384c3c`
-      - `pack-2106cd330a63534e760a77065b374b130f384c3c.pack` - `pack-2106cd330a63534e760a77065b374b130f384c3c`
-      - `pack-2106cd330a63534e760a77065b374b130f384c3c.rev` - `pack-2106cd330a63534e760a77065b374b130f384c3c`
-
-    - [89](.git/objects/89)
-
-      - `cee442e64620e5ec9a3b870a80c622ba43335d` - `cee442e64620e5ec9a3b870a80c622ba43335d`
-
-    - [80](.git/objects/80)
-
-      - `e0e7143e4fb8e329e3142eb2acd53ce1cc2eeb` - `e0e7143e4fb8e329e3142eb2acd53ce1cc2eeb`
-
-    - [7b](.git/objects/7b)
-
-      - `b41e4b6c5d541ec27fb26e67a6396b3c8e62a4` - `b41e4b6c5d541ec27fb26e67a6396b3c8e62a4`
-
-    - [26](.git/objects/26)
-
-      - `cb1ca4aeee5c122622c59263543f2bad080039` - `cb1ca4aeee5c122622c59263543f2bad080039`
-
-    - [86](.git/objects/86)
-
-      - `0e243bada6c06dae742fe8362bbea37b0c32d4` - `0e243bada6c06dae742fe8362bbea37b0c32d4`
-
-    - [72](.git/objects/72)
-
-      - `80d42353b2c3bbb641750ed2acc6efae8fccd2` - `80d42353b2c3bbb641750ed2acc6efae8fccd2`
-
-    - [6b](.git/objects/6b)
-
-      - `48e8b5ccd8eadd37f42fcc6a44a02a3228c4fc` - `48e8b5ccd8eadd37f42fcc6a44a02a3228c4fc`
-
-    - [07](.git/objects/07)
-
-      - `0f318287805bdfe3a8b26a4549d19ff3cb148f` - `0f318287805bdfe3a8b26a4549d19ff3cb148f`
-
-    - [6e](.git/objects/6e)
-
-      - `73d81f2460c9a28f832e50a8d4ae70778b5397` - `73d81f2460c9a28f832e50a8d4ae70778b5397`
-
-    - [9a](.git/objects/9a)
-
-      - `2e60bb795038f14a0a7acec85bcce52262d6d0` - `2e60bb795038f14a0a7acec85bcce52262d6d0`
-
-    - [info](.git/objects/info)
-
-      - `commit-graph` - `commit-graph`
-      - `packs` - `packs`
-
-    - [98](.git/objects/98)
-
-      - `54474d112920b4764356959339830814b66501` - `54474d112920b4764356959339830814b66501`
-
-    - [08](.git/objects/08)
-
-      - `b4682fcf66c40a20a590dbdc61a33e3ab84ae7` - `b4682fcf66c40a20a590dbdc61a33e3ab84ae7`
-      - `78a7884cad36caa9626c91555796fe969782ed` - `78a7884cad36caa9626c91555796fe969782ed`
-
-    - [55](.git/objects/55)
-
-      - `ee898e786aaac0e6a18c9c3bbda1753ef4a63f` - `ee898e786aaac0e6a18c9c3bbda1753ef4a63f`
-      - `04acf3e8788b95e22906a8e8f38442b6f56678` - `04acf3e8788b95e22906a8e8f38442b6f56678`
-
-    - [63](.git/objects/63)
-
-      - `dfbbe8d0b2a78fc343072219cbecb41dd8ec73` - `dfbbe8d0b2a78fc343072219cbecb41dd8ec73`
-
-    - [a0](.git/objects/a0)
-
-      - `d7a068fc8d679116e8bb6454ee13543a131f1a` - `d7a068fc8d679116e8bb6454ee13543a131f1a`
-
-    - [ef](.git/objects/ef)
-
-      - `854133d86e44757879dd8291b3edb6034c90a2` - `854133d86e44757879dd8291b3edb6034c90a2`
-      - `3c40d6f385ecc440aacb7b38036082bf0311ea` - `3c40d6f385ecc440aacb7b38036082bf0311ea`
-
-    - [c3](.git/objects/c3)
-
-      - `ecdd142541950aa9cbde80cd041cb801a96457` - `ecdd142541950aa9cbde80cd041cb801a96457`
-
-    - [c4](.git/objects/c4)
-
-      - `9fe4df27c9a3f377e4f39ad88eabf190b94451` - `9fe4df27c9a3f377e4f39ad88eabf190b94451`
-
-    - [e1](.git/objects/e1)
-
-      - `96fbbaced17d0a05f7f600ed6821c53dc6c949` - `96fbbaced17d0a05f7f600ed6821c53dc6c949`
-
-    - [cd](.git/objects/cd)
-
-      - `10dee445807d831b588dcd4c11c0e10b3e564e` - `10dee445807d831b588dcd4c11c0e10b3e564e`
-
-    - [f9](.git/objects/f9)
-
-      - `5ddfe22d1ef0e1647e8e02e509863de540ff23` - `5ddfe22d1ef0e1647e8e02e509863de540ff23`
-
-    - [fa](.git/objects/fa)
-
-      - `af21ccb952ba344b52e3df77836270d017cef5` - `af21ccb952ba344b52e3df77836270d017cef5`
-
-    - [cb](.git/objects/cb)
-
-      - `62e0f5eed20b74d0d6b112ac6944ea3d1c0d09` - `62e0f5eed20b74d0d6b112ac6944ea3d1c0d09`
-
-    - [84](.git/objects/84)
-
-      - `288ffde83ed26d85d09d075d471f4cbf327ac5` - `288ffde83ed26d85d09d075d471f4cbf327ac5`
-
-    - [23](.git/objects/23)
-
-      - `520558b00783284f99e8336d3ddf5e034ab8d0` - `520558b00783284f99e8336d3ddf5e034ab8d0`
-
-    - [12](.git/objects/12)
-
-      - `77e7a08daeb21bf9729f1af0fd4fcc16dde6aa` - `77e7a08daeb21bf9729f1af0fd4fcc16dde6aa`
-
-    - [40](.git/objects/40)
-
-      - `1e32f602c6175b497c347f4b7a20bb9ede7d99` - `1e32f602c6175b497c347f4b7a20bb9ede7d99`
-
-    - [2b](.git/objects/2b)
-
-      - `1dfe14728718c4efec3cee7a97ad1556a0776a` - `1dfe14728718c4efec3cee7a97ad1556a0776a`
-
-    - [78](.git/objects/78)
-
-      - `2ff8f8857bfd1660dbf04e3181048780b7ae93` - `2ff8f8857bfd1660dbf04e3181048780b7ae93`
-
-    - [25](.git/objects/25)
-      - `ea6ac9c563667e6383d7bf056f07c6125a77ea` - `ea6ac9c563667e6383d7bf056f07c6125a77ea`
-
-  - [info](.git/info)
-
-    - `exclude` - `exclude`
-    - `refs` - `refs`
-
-  - [logs](.git/logs)
-
-    - `HEAD` - `HEAD`
-
-    - [refs](.git/logs/refs)
-
-      - [heads](.git/logs/refs/heads)
-
-        - `main` - `main`
-
-      - [remotes](.git/logs/refs/remotes)
-
-        - [origin](.git/logs/refs/remotes/origin)
-          - `main` - `main`
-
-  - [hooks](.git/hooks)
-
-    - `commit-msg.sample` - `commit-msg`
-    - `pre-rebase.sample` - `pre-rebase`
-    - `pre-commit.sample` - `pre-commit`
-    - `applypatch-msg.sample` - `applypatch-msg`
-    - `fsmonitor-watchman.sample` - `fsmonitor-watchman`
-    - `pre-receive.sample` - `pre-receive`
-    - `prepare-commit-msg.sample` - `prepare-commit-msg`
-    - `post-update.sample` - `post-update`
-    - `pre-merge-commit.sample` - `pre-merge-commit`
-    - `pre-applypatch.sample` - `pre-applypatch`
-    - `pre-push.sample` - `pre-push`
-    - `update.sample` - `update`
-    - `push-to-checkout.sample` - `push-to-checkout`
-
-  - [refs](.git/refs)
-
-    - [heads](.git/refs/heads)
-
-      - `main` - `main`
-
-    - [tags](.git/refs/tags)
-
-    - [remotes](.git/refs/remotes)
-
-      - [origin](.git/refs/remotes/origin)
-        - `main` - `main`
-
 - [Cleaning](Cleaning)
 
   - `combine_everything.ipynb` - `combine_everything`
-  - `.DS_Store` - `.DS_Store`
   - `clean18worldChamp.ipynb` - `clean18worldChamp`
 
   - [qual_events](Cleaning/qual_events)
-
-    - `.DS_Store` - `.DS_Store`
 
     - [men](Cleaning/qual_events/men)
 
@@ -1420,8 +1125,6 @@
 
   - [olympics](Cleaning/olympics)
 
-    - `.DS_Store` - `.DS_Store`
-
     - [mens](Cleaning/olympics/mens)
 
       - `clean2012Olympics_Men's_artistic_team_all-around.csv` - `clean2012Olympics_Men's_artistic_team_all-around`
@@ -1445,7 +1148,6 @@
     - [womens](Cleaning/olympics/womens)
       - `clean_women12to20fx.ipynb` - `clean_women12to20fx`
       - `clean2020Olympics_women's_artistic_team_all-around_individual.csv` - `clean2020Olympics_women's_artistic_team_all-around_individual`
-      - `.DS_Store` - `.DS_Store`
       - `clean_women12to20bb.ipynb` - `clean_women12to20bb`
       - `clean2016women.ipynb` - `clean2016women`
       - `clean2016Olympics_women's_artistic_team_all-around.csv` - `clean2016Olympics_women's_artistic_team_all-around`
@@ -1490,7 +1192,6 @@
   - [\*final2020](Cleaning/*final2020)
 
     - `indv_allrnd2020_final.ipynb` - `indv_allrnd2020_final`
-    - `.DS_Store` - `.DS_Store`
     - `clean2020final_indv_uneven.csv` - `clean2020final_indv_uneven`
     - `clean2020final_indv_uneven.ipynb` - `clean2020final_indv_uneven`
     - `2020final_indiv_vaul.csv` - `2020final_indiv_vaul`
@@ -1565,7 +1266,6 @@
     - `usopc_women_fx_october.csv` - `usopc_women_fx_october`
     - `cleaning-allyears+eda.ipynb` - `cleaning-allyears+eda`
     - `usopc_clean_women_olympic.csv` - `usopc_clean_women_olympic`
-    - `.DS_Store` - `.DS_Store`
     - `usa_women_apparatus.csv` - `usa_women_apparatus`
     - `USOPC_cleaned22to23women.csv` - `USOPC_cleaned22to23women`
     - `usopc_men_nov.csv` - `usopc_men_nov`
@@ -1597,7 +1297,6 @@
 
     - `ub_world_championship_w.csv` - `ub_world_championship_w`
     - `clean19worldChamp.ipynb` - `clean19worldChamp`
-    - `.DS_Store` - `.DS_Store`
     - `world18champs.csv` - `world18champs`
     - `clean2023Camp.ipynb` - `clean2023Camp`
     - `vt_world_championship_w.csv` - `vt_world_championship_w`
@@ -1661,13 +1360,10 @@
 
 - [Data](Data)
 
-  - `.DS_Store` - `.DS_Store`
-
   - [cleandata22-23](Data/cleandata22-23)
 
     - `encoded_m_olympics_vtnames.csv` - `encoded_m_olympics_vtnames`
     - `women_and_mens22-23CLEAN.ipynb` - `women_and_mens22-23CLEAN`
-    - `.DS_Store` - `.DS_Store`
     - `encoded_w_olympics_ub.csv` - `encoded_w_olympics_ub`
     - `encoded_w_olympics_ubnames.csv` - `encoded_w_olympics_ubnames`
     - `encoded_m_olympics_sr.csv` - `encoded_m_olympics_sr`
@@ -1709,7 +1405,6 @@
 - [Team Selection](Team Selection)
 
   - `final_rnd_team.ipynb` - `final_rnd_team`
-  - `.DS_Store` - `.DS_Store`
   - `team_from_ind_scores.csv` - `team_from_ind_scores`
   - `Team from Individuals.ipynb` - `Team from Individuals`
   - `Metaheuristics.ipynb` - `Metaheuristics`
