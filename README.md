@@ -1,17 +1,18 @@
+# UCSAS 2024 USOPC Data Challenge
+
+This research utilizes data scraping, cleaning, and modeling, integrating machine learning models and combinatorial optimization algorithms to identify the optimal Men's and Women's Teams and Individual USA Olympic Artistic Gymnasts for the 2024 Olympic Games, defined as maximizing the total medal count. It adopts a novel approach with Metaheuristics Algorithms, including Randomized Heuristic, Tabu Search, and Variable Neighborhood Search, surpassing traditional mixed-integer linear programming. Grounded in meticulous data analysis, the study strategically positions Team USA to maximize their medal count in the Paris 2024 Olympics.
+
+## Folder Structure
+
+---
+
 - [Data_Mining](.)
 
-  - `UCSAS.docx` - `UCSAS`
-  - `Presentation1.pptx` - `Presentation1`
   - `README.md` - `README`
-  - `.gitignore` - `.gitignore`
   - `Notes for Report.ipynb` - `Notes for Report`
   - `UCSAS 2024 USOPC Data Challenge.ipynb` - `UCSAS 2024 USOPC Data Challenge`
   - `Data Sources.ipynb` - `Data Sources`
   - `To Do and  Questions.ipynb` - `To Do and  Questions`
-  - `olympic_qual_2024.pdf` - `olympic_qual_2024`
-  - `women_top2023iaa.py` - `women_top2023iaa`
-  - `Mens Models.xlsx` - `Mens Models`
-  - `data_mining_structure.txt` - `data_mining_structure`
 
 - [scraping](scraping)
 
@@ -826,10 +827,6 @@
 
   - [women](EDA/women)
 
-- [Images](Images)
-
-  - `Metaheuristics_classification.svg.png` - `Metaheuristics_classification.svg`
-
 - [Combine_Data](Combine_Data)
 
   - [men](Combine_Data/men)
@@ -956,11 +953,6 @@
   - `usa_vs_comp_women.ipynb` - `usa_vs_comp_women`
   - `Women Team Models Review.ipynb` - `Women Team Models Review`
   - `USA Gymnasts Likely to Medal.ipynb` - `USA Gymnasts Likely to Medal`
-
-- [Previous_Winners](Previous_Winners)
-
-  - `UCSAS_Data_Challenge_Webinar_09-14-23.pdf` - `UCSAS_Data_Challenge_Webinar_09-14-23`
-  - `UCSAS final paper.pdf` - `UCSAS final paper`
 
 - [Cleaning](Cleaning)
 
