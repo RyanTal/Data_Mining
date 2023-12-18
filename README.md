@@ -1394,7 +1394,7 @@ This research utilizes data scraping, cleaning, and modeling, integrating machin
     - `mens2023iaa.csv` - `mens2023iaa`
     - `rings23mens.csv` - `rings23mens`
 
-- [Team Selection](Team Selection)
+- [Team_Selection](Team_Selection)
 
   - `final_rnd_team.ipynb` - `final_rnd_team`
   - `team_from_ind_scores.csv` - `team_from_ind_scores`
@@ -1403,14 +1403,14 @@ This research utilizes data scraping, cleaning, and modeling, integrating machin
   - `team_from_ind.csv` - `team_from_ind`
   - `Simone Biles_data.csv` - `Simone Biles_data`
 
-  - [images](Team Selection/images)
+  - [images](Team_Selection/images)
 
     - `Screenshot 2023-11-20 at 8.04.36 AM.png` - `Screenshot 2023-11-20 at 8.04.36 AM`
     - `Screenshot 2023-11-19 at 7.14.26 PM.png` - `Screenshot 2023-11-19 at 7.14.26 PM`
     - `Screenshot 2023-11-19 at 7.12.42 PM.png` - `Screenshot 2023-11-19 at 7.12.42 PM`
     - `Screenshot 2023-11-19 at 8.03.25 PM.png` - `Screenshot 2023-11-19 at 8.03.25 PM`
 
-  - [men](Team Selection/men)
+  - [men](Team_Selection/men)
 
     - `report.log` - `report`
     - `all_usa.csv` - `all_usa`
@@ -1420,7 +1420,7 @@ This research utilizes data scraping, cleaning, and modeling, integrating machin
     - `top_men.csv` - `top_men`
     - `usa_men.csv` - `usa_men`
 
-  - [Competition](Team Selection/Competition)
+  - [Competition](Team_Selection/Competition)
 
     - `great_britain.csv` - `great_britain`
     - `top_countries.ipynb` - `top_countries`
@@ -1436,7 +1436,7 @@ This research utilizes data scraping, cleaning, and modeling, integrating machin
     - `china.csv` - `china`
     - `China.ipynb` - `China`
 
-    - [Men](Team Selection/Competition/Men)
+    - [Men](Team_Selection/Competition/Men)
       - `Japan.ipynb` - `Japan`
       - `germany.ipynb` - `germany`
       - `UK.ipynb` - `UK`
